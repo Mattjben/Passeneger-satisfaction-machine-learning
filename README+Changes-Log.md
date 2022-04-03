@@ -8,3 +8,12 @@
   - Added a table displaying the features that mimicked the sample report they gave us
   - Updated the Goals and objectives
   - Added some comments through out the Notebook
+
+- **04/04/2022 Isxaq**
+  - Added Percentiles to describe func to show outliers better
+  - Added an explanation section for outliers
+  - added some code that uses z score to remove outliers
+  - Completed one-hot-encoding and scaling using min max
+  - Realised these were unnecessary in phase one and created a new doc and moved thme there
+  - moved the sampling to the end of data prep step
+  - Added Links for literature review later on
