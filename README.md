@@ -6,8 +6,8 @@ The US airline passenger satisfaction survey dataset was sourced from kaggle, up
 
 URL: [US Airline Passenger Satisfaction](https://www.kaggle.com/datasets/johndddddd/customer-satisfaction)
 
-- satisfaction.xlsx/sat_csv_orig.csv: orginal dataset
-- satisfaction_cleaned_5000_v2.csv: cleaned and sampled data used for machine learning
+- satisfaction.xlsx/sat_csv_orig.csv: Orginal dataset
+- satisfaction_cleaned_5000_v2.csv: Cleaned and sampled data used for machine learning
 - Phase 1_Airplane.ipynb/html : Notebook of phase 1 of the report 
 - Phase 2.ipynb/html : Notebook of phase 2 of the report 
 
